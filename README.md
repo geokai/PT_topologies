@@ -1,4 +1,5 @@
-### Miscellaneous Packet Tracer labs
+### Packet Tracer Topology files
 
-Packet tracer lab files from various networking educators and content creators, and discord server query labs.
-Various experimental labs.
+Packet tracer topology files in various network arrangements.
+Topologies include specific speed networks and mixed speeds.
+Configurations are in basic set-up, ready for editing.
